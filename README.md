@@ -1,2 +1,2 @@
 # Rosalind
-Rosalind problems practice
+Rosalind bioinformatic problems practice
