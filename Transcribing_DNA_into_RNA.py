@@ -1,3 +1,7 @@
+'''
+Problem
+http://rosalind.info/problems/rna/
+'''
 # Create a DNA string
 DNA = "GATGGAACTTGACTACGTAAATT"
 
