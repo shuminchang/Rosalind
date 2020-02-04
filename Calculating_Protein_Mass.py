@@ -1,3 +1,7 @@
+'''
+Problem
+http://rosalind.info/problems/prtm/
+'''
 # Monoisotopic mass table
 mass_table = {'A': 71.03711, 'C': 103.00919, 'D': 115.02694, 'E': 129.04259, 'F': 147.06841,
               'G': 57.02146, 'H': 137.05891, 'I': 113.08406, 'K': 128.09496, 'L': 113.08406,
