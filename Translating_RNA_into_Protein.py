@@ -1,3 +1,7 @@
+'''
+Problem
+http://rosalind.info/problems/prot/
+'''
 # make a dict of RNA codon table
 d = {'UUU': 'F', 'UUC': 'F',
         'UUA': 'L', 'UUG': 'L',
