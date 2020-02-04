@@ -1,3 +1,7 @@
+'''
+Problem
+http://rosalind.info/problems/perm/
+'''
 n = 6
 
 if n == 2:
