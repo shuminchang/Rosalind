@@ -1,3 +1,7 @@
+'''
+Problem
+http://rosalind.info/problems/revc/
+'''
 # Create a string
 DNA = 'AAAACCCGGT'
 
